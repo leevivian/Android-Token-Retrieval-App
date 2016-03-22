@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VLCSC413HW1</string>
+    <string name="action_settings">Settings</string>
+    <string name="main">\nThe application has started!\n</string>
+    <string name="buttonLine">Add Line!</string>
+    <string name="buttonToken">Get Token!</string>
+    <string name="buttonMessage">Get Message!</string>
+    <string name="clearButton">Clear</string>
+</resources>
