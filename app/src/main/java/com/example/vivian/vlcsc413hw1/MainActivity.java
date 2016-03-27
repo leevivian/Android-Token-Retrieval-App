@@ -1,3 +1,6 @@
+// Vivian Lee
+// 3/1/16
+
 package com.example.vivian.vlcsc413hw1;
 
 import android.os.Bundle;
